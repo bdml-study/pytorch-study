@@ -1,0 +1,6 @@
+**/.ipynb_checkpoints/
+**/__pycache__/
+**/submit/
+01-numpy/answer/numpy_exercise2_answer.ipynb
+**/*.zip
+03-dataloader/
