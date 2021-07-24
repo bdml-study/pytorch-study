@@ -8,5 +8,5 @@
 
 ## Reference
 
-- Cats and Dogs dataset: [Download Kaggle Cats and Dogs Dataset from Official Microsoft Download Center](https://www.microsoft.com/en-us/download/details.aspx?id=54765)
-
+- Cats and Dogs dataset: [Kaggle Cats and Dogs Dataset from Official Microsoft Download Center](https://www.microsoft.com/en-us/download/details.aspx?id=54765)
+- Car object detection: [Kaggle Car object detection dataset](https://www.kaggle.com/sshikamaru/car-object-detection)
