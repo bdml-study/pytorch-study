@@ -3,11 +3,12 @@ import numpy as np
 from PIL import Image
 
 
+CAT_DOG_DATA_PATH = "../data/catsanddogs"
 IMAGE_SIZE = 128
 CHANNEL = 3
 
 
-class MyDataLoader():
+class CatsAndDogsDataLoader():
 
     def __init__(self, batch_size):
         self.batch_size = batch_size
@@ -19,7 +20,7 @@ class MyDataLoader():
         data_list = []
         labels = []
 
-        for d in pathlib.Path("data/catsanddogs").glob("*"):
+        for d in pathlib.Path(CAT_DOG_DATA_PATH).glob("*"):
             category = d.name
             labels.append(category)
 

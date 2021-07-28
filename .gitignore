@@ -2,4 +2,6 @@
 **/__pycache__/
 **/submit/
 **/*.zip
-**/data/
+data/
+04-basic-fc-network/
+05-convolutional-network/
