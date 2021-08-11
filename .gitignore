@@ -4,3 +4,4 @@
 **/*.zip
 data/
 05-convolutional-network/
+06-batch-norm/models/batch_norm.py
