@@ -3,4 +3,3 @@
 **/submit/
 **/*.zip
 data/
-06-batch-norm/models/batch_norm.py
