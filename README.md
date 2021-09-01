@@ -10,3 +10,7 @@
 
 - Cats and Dogs dataset: [Kaggle Cats and Dogs Dataset from Official Microsoft Download Center](https://www.microsoft.com/en-us/download/details.aspx?id=54765)
 - Car object detection: [Kaggle Car object detection dataset](https://www.kaggle.com/sshikamaru/car-object-detection)
+
+- Face detector: [clcarwin/SFD_pytorch: A PyTorch Implementation of Single Shot Scale-invariant Face Detector. (github.com)](https://github.com/clcarwin/SFD_pytorch)
+- Face mask dataset: [Face Mask Detection ~12K Images Dataset | Kaggle](https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset)
+

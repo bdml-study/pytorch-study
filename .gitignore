@@ -3,3 +3,5 @@
 **/submit/
 **/*.zip
 data/
+**/SFD_pytorch/
+**/ckpts/
